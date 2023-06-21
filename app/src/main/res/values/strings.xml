@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="signin">SIGN IN</string>
+    <string name="signup">SIGN UP</string>
+    <string name="forgetpass">Forget Password</string>
+    <string name="image">Tap image to load your profile picture</string>
+    <string name="user">User Name</string>
+    <string name="pass_title">RETRIEVE PASSWORD</string>
+    <string name="pass_msg">Enter your email address below to get link to reset password</string>
+    <string name="reset">RESET PASSWORD</string>
+    <string name="toast_success">Login is successful</string>
+    <string name="null_value">Enter valid email and password</string>
+    <string name="reset_email">Reset link sent to email</string>
+    <string name="reset_email_fail">Problem in sending link to email</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="update">UPDATE PROFILE</string>
+    <string name="msg">Type a message....</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
